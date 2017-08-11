@@ -2,8 +2,7 @@
 
 - [x] A grande variedade de impostos e o padrão Strategy
 - [x] Muitos Descontos e o Chain of Responsibility
-- [ ] Conhecendo e trabalhando com tuplas
-- [ ] Códigos parecidos e o Template Method
+- [x] Códigos parecidos e o Template Method
 - [ ] Comportamentos compostos por outros comportamentos e o Decorator
 - [ ] Estados que variam e o State
 - [ ] Criação de Objetos e Builder
