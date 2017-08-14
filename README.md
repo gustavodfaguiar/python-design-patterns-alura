@@ -3,7 +3,7 @@
 - [x] A grande variedade de impostos e o padrão Strategy
 - [x] Muitos Descontos e o Chain of Responsibility
 - [x] Códigos parecidos e o Template Method
-- [ ] Comportamentos compostos por outros comportamentos e o Decorator
+- [x] Comportamentos compostos por outros comportamentos e o Decorator
 - [ ] Estados que variam e o State
 - [ ] Criação de Objetos e Builder
 - [ ] Executando diferentes ações e o Observer
