@@ -4,7 +4,7 @@
 - [x] Muitos Descontos e o Chain of Responsibility
 - [x] Códigos parecidos e o Template Method
 - [x] Comportamentos compostos por outros comportamentos e o Decorator
-- [ ] Estados que variam e o State
+- [x] Estados que variam e o State
 - [ ] Criação de Objetos e Builder
 - [ ] Executando diferentes ações e o Observer
 - [ ] Fábricas e o problema de criação de objetos
