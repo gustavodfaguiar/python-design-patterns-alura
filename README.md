@@ -5,8 +5,8 @@
 - [x] Códigos parecidos e o Template Method
 - [x] Comportamentos compostos por outros comportamentos e o Decorator
 - [x] Estados que variam e o State
-- [ ] Criação de Objetos e Builder
-- [ ] Executando diferentes ações e o Observer
+- [x] Criação de Objetos e Builder
+- [x] Executando diferentes ações e o Observer
 - [ ] Fábricas e o problema de criação de objetos
 - [ ] Salvando estados anteriores e o Memento
 - [ ] ODSLs e o Interpreter
