@@ -43,7 +43,7 @@ class Nota_fiscal(object):
 
 if __name__ == '__main__':
     from criador_de_nota_fiscal import Criador_de_nota_fiscal
- 
+
     itens = [
         Item(
             'ITEM A',
