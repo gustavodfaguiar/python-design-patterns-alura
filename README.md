@@ -7,8 +7,8 @@
 - [x] Estados que variam e o State
 - [x] Criação de Objetos e Builder
 - [x] Executando diferentes ações e o Observer
-- [ ] Fábricas e o problema de criação de objetos
-- [ ] Salvando estados anteriores e o Memento
+- [x] Fábricas e o problema de criação de objetos
+- [x] Salvando estados anteriores e o Memento
 - [ ] ODSLs e o Interpreter
 - [ ] Estruturas de dados e o Visitor
 - [ ] Diferentes ações com Command
