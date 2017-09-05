@@ -9,7 +9,7 @@
 - [x] Executando diferentes ações e o Observer
 - [x] Fábricas e o problema de criação de objetos
 - [x] Salvando estados anteriores e o Memento
-- [ ] ODSLs e o Interpreter
+- [x] ODSLs e o Interpreter
 - [ ] Estruturas de dados e o Visitor
 - [ ] Diferentes ações com Command
 
