@@ -10,7 +10,7 @@
 - [x] Fábricas e o problema de criação de objetos
 - [x] Salvando estados anteriores e o Memento
 - [x] ODSLs e o Interpreter
-- [ ] Estruturas de dados e o Visitor
+- [x] Estruturas de dados e o Visitor
 - [ ] Diferentes ações com Command
 
 
