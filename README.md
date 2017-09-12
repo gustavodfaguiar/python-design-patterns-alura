@@ -11,6 +11,6 @@
 - [x] Salvando estados anteriores e o Memento
 - [x] ODSLs e o Interpreter
 - [x] Estruturas de dados e o Visitor
-- [ ] Diferentes ações com Command
+- [x] Diferentes ações com Command
 
 
